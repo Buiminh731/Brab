@@ -1,0 +1,12 @@
+.book-window{
+    border: 1px solid;
+    border-radius: 15px;
+    padding: 20px 20px;
+    background-color: white;
+    border-top-color: #53C782;
+    border-top-width: 10px;
+    border-top-style: ridge;
+}
+.img-window{
+    border-radius: 15px;
+}
